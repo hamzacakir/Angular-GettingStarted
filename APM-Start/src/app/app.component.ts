@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Angular: Getting Started';
+  testTitle = 'This is a tes';
+
+  yesso() {
+    return 'Was da denn?';
+  }
 }
